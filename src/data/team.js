@@ -1,0 +1,28 @@
+export const team = [
+  {
+    id: 'ella',
+    name: 'Ella Setser',
+    role: 'Owner',
+    type: 'medico',
+    crm: null,
+    photo: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=600&h=750&fit=crop&auto=format',
+    photoAlt: 'Café owner portrait',
+    bio: 'Ella bought Mill Town Coffee in 2023 after working there, then moved the shop to Imbler in November 2025 — a high-visibility spot with two drive-thru windows and a school walk route. She wants an owned site that can grow into online preorder.',
+    formation: 'Hospitality · Specialty coffee',
+    specialties: ['Menu', 'Community', 'Drive-thru'],
+    languages: ['English'],
+  },
+  {
+    id: 'crew',
+    name: 'Mill Town crew',
+    role: 'Baristas & counter',
+    type: 'medico',
+    crm: null,
+    photo: 'https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=600&h=750&fit=crop&auto=format',
+    photoAlt: 'Café team at the counter',
+    bio: 'The small Imbler team keeps both drive-thru windows moving — espresso, tea, light lunch, and a friendly hello for regulars heading through town.',
+    formation: 'Hospitality',
+    specialties: ['Service', 'Espresso'],
+    languages: ['English'],
+  },
+]
